@@ -8,10 +8,6 @@ Welcome to our Object-Oriented Programming (OOP) masterpiece – the Airline Boo
 
 For a visual representation of the project's architecture and component relationships, please refer to the [Project Diagram](lucid.app/lucidchart/b100910d-d5a3-4d1c-b421-6244d54e588e/edit?viewport_loc=-3511%2C-607%2C3032%2C1723%2C0_0&invitationId=inv_29b2219a-06f2-40b7-bdce-feee60544ba1).
 
-## Technical Highlights
-
-- ... (rest of the technical highlights remain the same)
-
 ## How to Use
 
 1. Clone the repository to your local machine.
@@ -35,8 +31,6 @@ This project may require the following libraries or external resources:
 
 ## License
 
-This project is licensed under the LUC - specify the license you choose.
+This project is licensed under the LUC
 
 ---
-
-In the "Project Diagram" section, you can provide a link to an online diagram or image that visually represents the project's architecture and component relationships. This will help recruiters quickly grasp the project's complexity and your team's technical prowess.
