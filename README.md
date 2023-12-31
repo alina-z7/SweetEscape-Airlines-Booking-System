@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Welcome to our Object-Oriented Programming (OOP) masterpiece – the Airline Booking System. This project showcases a robust and feature-rich OOP implementation of an airline booking system. Our system allows users to book flights, manage their itineraries, select seats, choose meals, and make payments. It also includes features for managing airport information, testing the system, providing entertainment options, and maintaining a member list.
+Welcome to the Object-Oriented Programming (OOP) masterpiece – the Airline Booking System. This project showcases a robust and feature-rich OOP implementation of an airline booking system. The system allows users to book flights, manage their itineraries, select seats, choose meals, and make payments. It also includes features for managing airport information, testing the system, providing entertainment options, and maintaining a member list.
 
 ## Project Diagram
 
