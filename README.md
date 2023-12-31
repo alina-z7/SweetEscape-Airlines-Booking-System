@@ -8,7 +8,7 @@ Welcome to the Object-Oriented Programming (OOP) masterpiece – the Airline Boo
 
 ## Project Diagram
 
-For a visual representation of the project's architecture and component relationships, please refer to the [Project Diagram](lucid.app/lucidchart/b100910d-d5a3-4d1c-b421-6244d54e588e/edit?viewport_loc=-3511%2C-607%2C3032%2C1723%2C0_0&invitationId=inv_29b2219a-06f2-40b7-bdce-feee60544ba1).
+For a visual representation of the project's architecture and component relationships, please refer to the [Project Diagram](https://lucid.app/lucidchart/b100910d-d5a3-4d1c-b421-6244d54e588e/edit?invitationId=inv_29b2219a-06f2-40b7-bdce-feee60544ba1&page=0_0#).
 
 ## How to Use
 
