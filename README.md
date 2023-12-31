@@ -1,4 +1,6 @@
-# Airline Booking System - Object-Oriented Programming Project
+# SweetEscape Airlines Booking System - Object-Oriented Programming Project
+
+()[Project-logo.png]
 
 ## Project Description
 
